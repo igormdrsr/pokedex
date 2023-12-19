@@ -5,7 +5,7 @@ Seja bem-vindo!
 Este é um projeto de uma simples Pokédex. A Pokédex é uma enciclopédia eletrônica de Pokémon, e neste projeto, estou trabalhando para fornecer uma experiência interativa e informativa para os fãs de Pokémon.
 
 ## Tecnologias
-[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) e [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) e [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript). Pretendo, muito em breve, implementar o [Tailwind CSS](https://tailwindcss.com/).
 
 ## Status do Projeto
 O projeto ainda está em fase de construção e não foi concluído. Estou adicionando novos recursos, melhorando a interface do usuário e aprimorando a funcionalidade da Pokédex. Sua paciência e feedback são muito bem-vindos.
