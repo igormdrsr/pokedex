@@ -1,0 +1,17 @@
+:root {
+  --fire: #ec6466;
+  --water: #73b7ff;
+  --grass: #2bdfa9;
+  --poison: #8e44ad;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+ol {
+  list-style-type: none;
+}
